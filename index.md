@@ -338,15 +338,48 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 | **UC Santa Barbara** | **Stanford** | -->
 
 # Organizers <a name="organizers"></a>
-| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Amarachi_Mbakwe_cropped.png" width="200"/>](https://sites.google.com/vt.edu/amarachiblessingmbakwe/home) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Joy_Wu_cropped.png" width="200"/>](https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Dario_Zanca_cropped.png" width="200"/>](https://www.mad.tf.fau.de/person/dario-zanca/) |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                         [**Amarachi Mbakwe, MS**](https://sites.google.com/vt.edu/amarachiblessingmbakwe/home)                                          |                                  [**Joy Tzung-yu Wu, MD, MPH.**](https://scholar.google.com/citations?user=03O8mIMAAAAJ&hl=en)                                  |                                        [**Dario Zanca, Ph.D.**](https://www.mad.tf.fau.de/person/dario-zanca/)                                        |
-|                                                                            **Virginia Tech**                                                                            |                                                                   **Stanford, IBM Research**                                                                    |                                                 **Friedrich-Alexander-Universität Erlangen-Nürnberg**                                                 |
-
-| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Elizabeth_Krupinski_cropped.png" width="190"/>](https://scholar.google.com/citations?user=IFy7aPsAAAAJ&hl=en) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Satyananda_Kashyap_cropped.png" width="200"/>](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Alexandros_Karargyris_cropped.png" width="200"/>](https://www.linkedin.com/in/alexandroskarargyris/) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                          [**Elizabeth A. Krupinski, PhD FSPIE, FSIIM, FATA, FAIMBE**](https://scholar.google.com/citations?user=IFy7aPsAAAAJ&hl=en)                          |                                        [**Satyananda Kashyap, Ph.D.**](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap)                                        |                                        [**Alexandros Karargyris, Ph.D.**](https://www.linkedin.com/in/alexandroskarargyris/)                                        |
-|                                                                             **Emory University**                                                                             |                                                                                          **IBM Research**                                                                                          |                                                                         **IHU Strasbourg**                                                                          |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center;width: 33.33%;"><a href="https://sites.google.com/vt.edu/amarachiblessingmbakwe/home"><img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Amarachi_Mbakwe_cropped.png" width="200"></a></th>
+      <th style="text-align: center;width: 33.33%;"><a href="https://scholar.google.com/citations?user=03O8mIMAAAAJ&amp;hl=en"><img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Joy_Wu_cropped.png" width="200"></a></th>
+      <th style="text-align: center;width: 33.33%;"><a href="https://www.mad.tf.fau.de/person/dario-zanca/"><img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Dario_Zanca_cropped.png" width="200"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="https://sites.google.com/vt.edu/amarachiblessingmbakwe/home"><strong>Amarachi Mbakwe, MS</strong></a></td>
+      <td style="text-align: center"><a href="https://scholar.google.com/citations?user=03O8mIMAAAAJ&amp;hl=en"><strong>Joy Tzung-yu Wu, MD, MPH.</strong></a></td>
+      <td style="text-align: center"><a href="https://www.mad.tf.fau.de/person/dario-zanca/"><strong>Dario Zanca, Ph.D.</strong></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>Virginia Tech</strong></td>
+      <td style="text-align: center"><strong>Stanford, IBM Research</strong></td>
+      <td style="text-align: center"><strong>Friedrich-Alexander-Universität Erlangen-Nürnberg</strong></td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center;width: 33.33%;"><a href="https://scholar.google.com/citations?user=IFy7aPsAAAAJ&amp;hl=en"><img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Elizabeth_Krupinski_cropped.png" width="190"></a></th>
+      <th style="text-align: center;width: 33.33%;"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap"><img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Satyananda_Kashyap_cropped.png" width="200"></a></th>
+      <th style="text-align: center;width: 33.33%;"><a href="https://www.linkedin.com/in/alexandroskarargyris/"><img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Alexandros_Karargyris_cropped.png" width="200"></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="https://scholar.google.com/citations?user=IFy7aPsAAAAJ&amp;hl=en"><strong>Elizabeth A. Krupinski, PhD FSPIE, FSIIM, FATA, FAIMBE</strong></a></td>
+      <td style="text-align: center"><a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Satyananda.Kashyap"><strong>Satyananda Kashyap, Ph.D.</strong></a></td>
+      <td style="text-align: center"><a href="https://www.linkedin.com/in/alexandroskarargyris/"><strong>Alexandros Karargyris, Ph.D.</strong></a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>Emory University</strong></td>
+      <td style="text-align: center"><strong>IBM Research</strong></td>
+      <td style="text-align: center"><strong>IHU Strasbourg</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 # Program Committee <a name="program_committee"></a>
 
