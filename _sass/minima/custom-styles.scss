@@ -9,3 +9,9 @@
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
+
+@media screen and (min-width: 1200px){
+  .wrapper{
+    max-width: calc(1040px - (30px * 2));
+  }
+}
