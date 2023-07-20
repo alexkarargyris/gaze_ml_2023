@@ -276,13 +276,13 @@ Topics of interest include but are not limited to the following:
 
 # Important Dates
 
-<ul>Submission due: <s><b>coming soon</b></s></ul>
-<ul>Reviewing starts: <s><b>coming soon</b></s></ul>
-<ul>Reviewing ends: <s><b>coming soon</b></s></ul>
-<ul>Notification of acceptance: <s><b>coming soon</b></s></ul>
-<ul>SlideLive presentation pre-recording upload for NeurIPS (hard deadline): <s><b>coming soon</b></s></ul>
-<ul>Camera ready paper: <s><b>coming soon</b></s></ul>
-<ul>Workshop Date: <b>coming soon</b></ul>
+<ul>Submission due: <s><b>27th September 2023</b></s></ul>
+<ul>Reviewing starts: <s><b>30th September 2023</b></s></ul>
+<ul>Reviewing ends: <s><b>16th October 2023</b></s></ul>
+<ul>Notification of acceptance: <s><b>27th October 2023</b></s></ul>
+<ul>SlideLive presentation pre-recording upload for NeurIPS (hard deadline): <s><b>10th November 2023</b></s></ul>
+<ul>Camera ready paper: <s><b>17th November 2023</b></s></ul>
+<ul>Workshop Date: <b>15th or 16th December 2023</b></ul>
 All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 # Submissions
