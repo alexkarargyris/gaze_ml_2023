@@ -29,7 +29,7 @@ We are excited to have the following organizations sponsor our workshop:
 </p>  -->
 
 <p align="center" width="100%">
-    <img width="100%" src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/bronze.png"> 
+    <img width="100%" src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Bronze.png"> 
 </p>
 
 <!-- <a href="https://cs.vt.edu/">
