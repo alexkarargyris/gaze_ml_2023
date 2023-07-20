@@ -38,7 +38,7 @@ We are excited to have the following organizations sponsor our workshop:
     </p>
 </a> -->
 
-[<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/sponsor-logos/mips_logo.png" width="500"/>](https://mips.synchrosystems.com/)
+[<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/sponsor-logos/mips_logo.png" width="300"/>](https://mips.synchrosystems.com/)
 
 <!-- | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/Meta_lockup_positive primary_RGB.png" width="200"/>](https://about.facebook.com/) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/sponsor-logos/gazepoint-logo.png" width="200"/>](https://www.gazept.com/) |   -->
 <!-- | :-: | :-: | -->
