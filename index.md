@@ -39,7 +39,6 @@ For past <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop, visit
 
 Webpage: https://neurips.cc/virtual/2023/workshop/49990
 
-All times are in Central Time
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -266,9 +265,11 @@ All times are in Central Time
             <li>Papers Presentation (60 mins)</li>
         </ul>
     </li>
-    <ul>
-    <li>Lunch - 60 mins with a walk around poster session.</li>
-    </ul>
+    <li>Lunch (60 mins):
+        <ul>
+            <li>60 mins with a walk around poster session</li>
+        </ul>
+    </li>
     <li> Afternoon session (175 mins):
         <ul>
             <li>Invited talks (1x30 = 30 mins) </li>
@@ -280,6 +281,7 @@ All times are in Central Time
     </li>
 </ul>
 
+All times are in Central Time
 
 # Call for Papers
 
