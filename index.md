@@ -54,6 +54,10 @@ All times are in Central Time
 .tg .tg-w1dh{color:#212529;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
+
+
+
 <!-- <table class="tg">
 <thead>
   <tr>
@@ -250,6 +254,32 @@ All times are in Central Time
   </tr>
 </tbody>
 </table> -->
+
+# Tentative Program
+<ul>
+    <li>Morning session (225 mins):
+        <ul>
+            <li>Opening Remarks (15 minutes)</li>
+            <li>Keynote (45 mins)</li>
+            <li>Invited talks (3x30min = 90 mins) </li>
+            <li>Break (15 mins)</li>
+            <li>Papers Presentation (60 mins)</li>
+        </ul>
+    </li>
+    <ul>
+    <li>Lunch - 60 mins with a walk around poster session.</li>
+    </ul>
+    <li> Afternoon session (175 mins):
+        <ul>
+            <li>Invited talks (1x30 = 30 mins) </li>
+            <li>Coffee Break (15 mins)</li>
+            <li>Breakout Session (90 mins)</li>
+            <li>Papers Presentation (60 mins) </li>
+            <li>Closing Remarks (10 mins)</li>
+        </ul>
+    </li>
+</ul>
+
 
 # Call for Papers
 
