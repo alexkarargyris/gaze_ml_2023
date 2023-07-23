@@ -322,7 +322,7 @@ All dates listed are 23:59 [Anywhere on Earth](https://time.is/Anywhere_on_Earth
 The workshop will feature two tracks for submission: a full, archival proceedings track with accepted papers published in the **[Proceedings for Machine Learning Research (PMLR)](https://proceedings.mlr.press/)** and a non-archival, extended abstract track. Submissions to either track will undergo the same double-blind peer review. Full proceedings papers can be up to 9 pages and extended abstract papers can be up to 4 pages (both excluding references and appendices). Authors of accepted extended abstracts (non-archival submissions) retain full copyright of their work, and acceptance of such a submission to Gaze Meets ML does not preclude publication of the same material in another archival venue (e.g., journal or conference).
 
 <ul>
-    <li><a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GMML">Open Review Submission Portal</a></li>
+    <li><a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Gaze_Meets_ML">Open Review Submission Portal</a></li>
     <li> Submission templates:
         <ul>
             <li><a href="https://media.neurips.cc/Conferences/NeurIPS2023/Styles/neurips_2023.tex">neurips_2023.tex --
