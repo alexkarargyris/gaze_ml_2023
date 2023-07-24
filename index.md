@@ -35,8 +35,6 @@ gaze-assisted machine learning.
 
 For past <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop, visit <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/">Gaze Meets ML 2022.</a>
 
-# Workshop Schedule
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
