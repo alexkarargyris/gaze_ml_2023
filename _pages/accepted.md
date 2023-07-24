@@ -1,8 +1,8 @@
----
+<!---
 layout: home
 title: Presentations
 permalink: /presentations/
----
+--->
 
 <!-- We want to congratulate the authors for the following accepted work to be presented at the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 3rd, 2022</b> in conjunction with NeurIPS 2022. We will be updating this page with more detailed schedule for the workshop shortly.
 
