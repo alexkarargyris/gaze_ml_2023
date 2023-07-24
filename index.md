@@ -37,9 +37,6 @@ For past <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop, visit
 
 # Workshop Schedule
 
-Webpage: https://neurips.cc/virtual/2023/workshop/49990
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
