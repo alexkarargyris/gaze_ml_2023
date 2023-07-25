@@ -9,9 +9,9 @@ navigation_weight: 1
     <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/eye-gaze-large.png"> 
 </p>
 
-We are excited to host Gaze Meets ML workshop on **December, 2023** in conjunction with NeurIPS 2023. *The workshop will take place in-person at New Orleans!*
+We are excited to host the 2nd edition of the Gaze Meets ML workshop in conjunction with NeurIPS 2023 in **December, 2023**. *The workshop will take place in-person at New Orleans! Looking forward to seeing you in person!*
 
-We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2023/speakers/). We would like to thank our [sponsors](https://gaze-meets-ml.github.io/gaze_ml_2023/sponsors/) for their support. If you are interested in sponsoring, please find more information [here](https://gaze-meets-ml.github.io/gaze_ml_2023/call_for_sponsors/).
+This year we are continuing to have a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2023/speakers/). We would like to thank our [sponsors](https://gaze-meets-ml.github.io/gaze_ml_2023/sponsors/) for their support. If you are interested in sponsoring, please find more information [here](https://gaze-meets-ml.github.io/gaze_ml_2023/call_for_sponsors/).
 
 For questions and further information, please reach out to [gaze.neurips@gmail.com](mailto:gaze.neurips@gmail.com).
 
