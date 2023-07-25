@@ -5,15 +5,17 @@ image: /images/eye-gaze-large.png
 toc: true
 navigation_weight: 1
 ---
-
 <p align="center" width="100%">
     <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/eye-gaze-large.png"> 
 </p>
 
-We are excited to host <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December, 2023</b> in conjunction with NeurIPS 2023. **The workshop will take place in-person at New Orleans!** We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2023/speakers/). For questions and further information please reach out to gaze.neurips@gmail.com
+We are excited to host Gaze Meets ML workshop on **December, 2023** in conjunction with NeurIPS 2023. *The workshop will take place in-person at New Orleans!*
 
-<b>We would like to thank our <a href="https://gaze-meets-ml.github.io/gaze_ml_2023/sponsors/">sponsors</a> for their support. If you are interested in sponsoring, please find more information <a href="https://gaze-meets-ml.github.io/gaze_ml_2023/call_for_sponsors/">here</a></b>.
+We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2023/speakers/). We would like to thank our [sponsors](https://gaze-meets-ml.github.io/gaze_ml_2023/sponsors/) for their support. If you are interested in sponsoring, please find more information [here](https://gaze-meets-ml.github.io/gaze_ml_2023/call_for_sponsors/).
 
+For questions and further information, please reach out to [gaze.neurips@gmail.com](mailto:gaze.neurips@gmail.com).
+
+Follow us on Twitter: <a href="https://twitter.com/Gaze_Meets_ML"><img src="images/Logo_of_Twitter.svg.png" alt="Follow us on Twitter @Gaze_Meets_ML" width="50">@Gaze_Meets_ML</a>
 # About
 
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
