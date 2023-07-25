@@ -389,7 +389,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
     <tr>
       <td style="text-align: center"><strong>Emory University</strong></td>
       <td style="text-align: center"><strong>IBM Research</strong></td>
-      <td style="text-align: center"><strong>IHU Strasbourg</strong></td>
+      <td style="text-align: center"><strong>MLCommons</strong></td>
     </tr>
   </tbody>
 </table>
