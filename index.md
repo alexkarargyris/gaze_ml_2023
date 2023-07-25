@@ -15,7 +15,10 @@ We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml
 
 For questions and further information, please reach out to [gaze.neurips@gmail.com](mailto:gaze.neurips@gmail.com).
 
-Follow us on Twitter: <a href="https://twitter.com/Gaze_Meets_ML"><img src="images/Logo_of_Twitter.svg.png" alt="Follow us on Twitter @Gaze_Meets_ML" width="50">@Gaze_Meets_ML</a>
+<img src="images/Logo_of_Twitter.svg.png" alt="Follow us on Twitter @Gaze_Meets_ML" width="18"> <a href="https://twitter.com/Gaze_Meets_ML">@Gaze_Meets_ML</a>
+
+
+
 # About
 
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
