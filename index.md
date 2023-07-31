@@ -6,7 +6,7 @@ toc: true
 navigation_weight: 1
 ---
 <p align="center" width="100%">
-    <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/logo_header.png"> 
+    <img width="50%" src="images/logo_header.png"> 
 </p>
 
 We are excited to host Gaze Meets ML workshop on **December, 2023** in conjunction with NeurIPS 2023. *The workshop will take place in-person at New Orleans!*
@@ -38,7 +38,7 @@ towards by bridging human cognition and AI in machine learning research and deve
 bring together an active research community to collectively drive progress in defining and addressing core problems in
 gaze-assisted machine learning.
 
-For past <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop, visit <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/">Gaze Meets ML 2022.</a>
+For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/">Gaze Meets ML 2022.</a>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
