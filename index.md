@@ -6,7 +6,7 @@ toc: true
 navigation_weight: 1
 ---
 <p align="center" width="100%">
-    <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/eye-gaze-large.png"> 
+    <img width="20%" src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/logo_header.png"> 
 </p>
 
 We are excited to host Gaze Meets ML workshop on **December, 2023** in conjunction with NeurIPS 2023. *The workshop will take place in-person at New Orleans!*
