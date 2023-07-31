@@ -1,7 +1,7 @@
 ---
 layout: home
 search_exclude: true
-image: /images/eye-gaze-large.png
+image: /images/logo_header.png
 toc: true
 navigation_weight: 1
 ---
