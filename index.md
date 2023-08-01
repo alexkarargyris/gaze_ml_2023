@@ -398,38 +398,27 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 
 <ul>
 <li> Anna Lisa Gentile (IBM Research) </li>
-<li> Brendan David-John (Virginia Tech) </li>
 <li> Daniel Gruhl (IBM Research) </li>
-<li> Efe Bozkir (University of Tuebingen) </li>
 <li> Ehsan Degan (IBM Research) </li>
 <li> G Anthony Reina (Intel) </li>
 <li> Henning Müller (HES-SO Valais) </li>
-<li> Hoda Eldardiry (Virginia Tech) </li>
 <li> Hongzhi Wang (IBM Research) </li>
-<li> Junwen Wu (Intel) </li>
-<li> Kamran Binaee (RIT) </li>
 <li> Ken C. L. Wong (IBM Research) </li>
 <li> Maria Xenochristou (Stanford University) </li>
-<li> Megan T deBettencourt (University of Chicago) </li>
 <li> Mehdi Moradi (Google) </li>
-<li> Neerav Karani (MIT) </li>
 <li> Niharika Shimona D'Souza (IBM Research) </li>
-<li> Nishant Rai (Stanford University) </li>
 <li> Peter Mattson (Google) </li>
 <li> Prashant Shah (Intel) </li>
-<li> Safa Messaoud (Qatar Computing Research Institute) </li>
 <li> Sameer Antani (NIH) </li>
-<li> Sayan Ghosal (Johns Hopkins University) </li>
-<li> Shiye Cao (Johns Hopkins University) </li>
 <li> Sivarama Krishnan Rajaraman (NIH) </li>
 <li> Spyridon Bakas (University of Pennsylvania) </li>
 <li> Szilard Vajda (Central Washington University) </li>
-<li> Vy A. Vo (Intel) </li>
 <li> Wolfgang Mehringer (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
 <li> Leo Schwinn (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>  
 <li> Thomas Altstidl (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li> 
 <li> Kai Kohlhoff (Google Research) </li> 
-<li> Matteo Tiezzi (University of Siena) </li>      
+<li> Matteo Tiezzi (University of Siena) </li>  
+<li> Sema Candemir (Eskişehir Technical University) </li>
 </ul>
 
 <!-- # Endorsements & Acknowledgements
