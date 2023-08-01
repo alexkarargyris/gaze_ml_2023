@@ -9,7 +9,7 @@ navigation_weight: 1
     <img width="50%" src="images/logo_header.png"> 
 </p>
 
-We are excited to host Gaze Meets ML workshop on **December, 2023** in conjunction with NeurIPS 2023. *The workshop will take place in-person at New Orleans!*
+We are excited to host Gaze Meets ML workshop on **December, 2023** in conjunction with NeurIPS 2023. *The workshop will take place in person in New Orleans!*
 
 We’ve got a great lineup of [speakers](https://gaze-meets-ml.github.io/gaze_ml_2023/speakers/). We would like to thank our [sponsors](https://gaze-meets-ml.github.io/gaze_ml_2023/sponsors/) for their support. If you are interested in sponsoring, please find more information [here](https://gaze-meets-ml.github.io/gaze_ml_2023/call_for_sponsors/).
 
@@ -22,10 +22,10 @@ For questions and further information, please reach out to [gaze.neurips@gmail.c
 # About
 
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
-human attentional patterns in real life workflows, and thus has long been explored as a signal to directly measure
+human attentional patterns in real-life workflows, and thus has long been explored as a signal to directly measure
 human-related cognition in various domains. Physiological data (including but not limited to eye gaze) offer new
-perception capabilities, which could be used in several ML domains, e.g., egocentric perception, embodiedAI, NLP, etc.
-They can help infer human perception, intentions, beliefs, goals and other cognition properties that are much needed for
+perception capabilities, which could be used in several ML domains, e.g., egocentric perception, embodied AI, NLP, etc.
+They can help infer human perception, intentions, beliefs, goals, and other cognition properties that are much needed for
 human-AI interactions and agent coordination. In addition, large collections of eye-tracking data have enabled
 data-driven modeling of human visual attention mechanisms, both for saliency or scanpath prediction, with twofold
 advantages: from the neuroscientific perspective to understand biological mechanisms better, from the AI perspective to
@@ -285,23 +285,23 @@ All times are in Central Time
 
 # Call for Papers
 
-We welcome submissions that present aspects of eye-gaze in regards to cognitive science, psychophysiology and computer
-science, or propose methods on integrating eye gaze into machine learning. We are also looking for applications from radiology, AR/VR,
+We welcome submissions that present aspects of eye gaze in regard to cognitive science, psychophysiology, and computer
+science or propose methods for integrating eye gaze into machine learning. We are also looking for applications from radiology, AR/VR,
 autonomous driving, etc. that introduce methods and models utilizing eye gaze technology in their respective domains.
 
 Topics of interest include but are not limited to the following:
 
 <ul>
-    <li>Understanding the neuroscience of eye-gaze and perception.</li>
-    <li>State of the art in incorporating machine learning and eye-tracking.</li>
-    <li>Annotation and ML supervision with eye-gaze.</li>
-    <li>Attention mechanisms and their correlation with eye-gaze.</li>
-    <li>Methods for gaze estimation and prediction using machine learning.</li>
-    <li>Unsupervised ML using eye gaze information for feature importance/selection.</li>
-    <li>Understanding human intention and goal inference.</li>
-    <li>Using saccadic vision for ML applications.</li>
-    <li>Use of gaze for human-AI interaction and agent coordination in multi-agent environments.</li>
-    <li>Eye gaze used for AI, e.g., NLP, Computer Vision, RL, Explainable AI, Embodied AI, Trustworthy AI.</li>
+    <li>Understanding the neuroscience of eye-gaze and perception</li>
+    <li>State of the art in incorporating machine learning and eye-tracking</li>
+    <li>Annotation and ML supervision with eye-gaze</li>
+    <li>Attention mechanisms and their correlation with eye-gaze</li>
+    <li>Methods for gaze estimation and prediction using machine learning</li>
+    <li>Unsupervised ML using eye gaze information for feature importance/selection</li>
+    <li>Understanding human intention and goal inference</li>
+    <li>Using saccadic vision for ML applications</li>
+    <li>Use of gaze for human-AI interaction and agent coordination in multi-agent environments</li>
+    <li>Eye gaze used for AI, e.g., NLP, Computer Vision, RL, Explainable AI, Embodied AI, Trustworthy AI </li>
     <li>Ethics of Eye Gaze in AI</li>
     <li>Gaze applications in cognitive psychology, radiology, neuroscience, AR/VR, autonomous cars, privacy, etc.</li>
 </ul>
@@ -336,7 +336,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 
 [**Jürgen Schmidhuber, Ph.D.**](speakers#schmidhuber) -->
 
-<!-- Abstact: First I’ll discuss our early work of 1990-91 on learning internal attention and on attentive neural networks that learn to steer foveas; then I’ll mention what happened in the subsequent 3 decades. In preparation of this workshop, I made two overview web sites: 1. End-to-End Differentiable Sequential Neural Attention 1990-93 https://people.idsia.ch/~juergen/neural-attention-1990-1993.html. 2. Learning internal spotlights of attention with what’s now called "Transformers with linearized self-attention" which are formally equivalent to my 1991 Fast Weight Programmers: https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html -->
+<!-- Abstract: First I’ll discuss our early work of 1990-91 on learning internal attention and on attentive neural networks that learn to steer foveas; then I’ll mention what happened in the subsequent 3 decades. In preparation for this workshop, I made two overview websites: 1. End-to-End Differentiable Sequential Neural Attention 1990-93 https://people.idsia.ch/~juergen/neural-attention-1990-1993.html. 2. Learning internal spotlights of attention with what’s now called "Transformers with linearized self-attention" which are formally equivalent to my 1991 Fast Weight Programmers: https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html -->
 
 <!-- # Speakers <a name="invited_speakers"></a>
 
@@ -398,42 +398,31 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 
 <ul>
 <li> Anna Lisa Gentile (IBM Research) </li>
-<li> Brendan David-John (Virginia Tech) </li>
 <li> Daniel Gruhl (IBM Research) </li>
-<li> Efe Bozkir (University of Tuebingen) </li>
 <li> Ehsan Degan (IBM Research) </li>
 <li> G Anthony Reina (Intel) </li>
 <li> Henning Müller (HES-SO Valais) </li>
-<li> Hoda Eldardiry (Virginia Tech) </li>
 <li> Hongzhi Wang (IBM Research) </li>
-<li> Junwen Wu (Intel) </li>
-<li> Kamran Binaee (RIT) </li>
 <li> Ken C. L. Wong (IBM Research) </li>
 <li> Maria Xenochristou (Stanford University) </li>
-<li> Megan T deBettencourt (University of Chicago) </li>
 <li> Mehdi Moradi (Google) </li>
-<li> Neerav Karani (MIT) </li>
 <li> Niharika Shimona D'Souza (IBM Research) </li>
-<li> Nishant Rai (Stanford University) </li>
 <li> Peter Mattson (Google) </li>
 <li> Prashant Shah (Intel) </li>
-<li> Safa Messaoud (Qatar Computing Research Institute) </li>
 <li> Sameer Antani (NIH) </li>
-<li> Sayan Ghosal (Johns Hopkins University) </li>
-<li> Shiye Cao (Johns Hopkins University) </li>
 <li> Sivarama Krishnan Rajaraman (NIH) </li>
 <li> Spyridon Bakas (University of Pennsylvania) </li>
 <li> Szilard Vajda (Central Washington University) </li>
-<li> Vy A. Vo (Intel) </li>
 <li> Wolfgang Mehringer (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
 <li> Leo Schwinn (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>  
 <li> Thomas Altstidl (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li> 
 <li> Kai Kohlhoff (Google Research) </li> 
-<li> Matteo Tiezzi (University of Siena) </li>      
+<li> Matteo Tiezzi (University of Siena) </li>  
+<li> Sema Candemir (Eskişehir Technical University) </li>
 </ul>
 
 <!-- # Endorsements & Acknowledgements
-- We are a MICCAI endorsed event:
+- We are a MICCAI-endorsed event:
 <p align="left" width="100%">
     <img width="40%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/MICCAI_logo_sm.jpg">
 </p>
