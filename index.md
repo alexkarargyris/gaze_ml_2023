@@ -6,7 +6,7 @@ toc: true
 navigation_weight: 1
 ---
 <p align="center" width="100%">
-    <img width="80%" src="images/logo_header.png"> 
+    <img width="100%" src="images/logo_header.png"> 
 </p>
 
 We are excited to host the 2nd edition of the Gaze Meets ML workshop in conjunction with NeurIPS 2023 in **December, 2023**. *The workshop will take place in-person at New Orleans! Looking forward to seeing you in person!*
