@@ -405,6 +405,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li> Hongzhi Wang (IBM Research) </li>
 <li> Ken C. L. Wong (IBM Research) </li>
 <li> Maria Xenochristou (Stanford University) </li>
+<li> Mansi Sharma (Intel) </li>
 <li> Mehdi Moradi (Google) </li>
 <li> Niharika Shimona D'Souza (IBM Research) </li>
 <li> Peter Mattson (Google) </li>
