@@ -400,7 +400,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li> Anna Lisa Gentile (IBM Research) </li>
 <li> Daniel Gruhl (IBM Research) </li>
 <li> Ehsan Degan (IBM Research) </li>
-<li> G Anthony Reina (Intel) </li>
+<li> G Anthony Reina (Resilience) </li>
 <li> Henning Müller (HES-SO Valais) </li>
 <li> Hongzhi Wang (IBM Research) </li>
 <li> Ken C. L. Wong (IBM Research) </li>
