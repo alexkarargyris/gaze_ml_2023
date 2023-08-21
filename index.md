@@ -424,11 +424,12 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li> ‪Cihan Topal‬ (ITU) </li>
 </ul>
 
-<!-- # Endorsements & Acknowledgements
-- We are a MICCAI-endorsed event:
+# Endorsements & Acknowledgements <a name="endorsements"></a>
+
+We are a MICCAI-endorsed event:
 <p align="left" width="100%">
     <img width="40%" src="https://gaze-meets-ml.github.io/gaze_ml_2022/images/MICCAI_logo_sm.jpg">
 </p>
 
-- <p align="left" width="100%">
+<!-- - <p align="left" width="100%">
     Eye gaze logo designed by Michael Chung</p> -->
