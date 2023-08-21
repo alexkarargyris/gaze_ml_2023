@@ -314,7 +314,7 @@ Topics of interest include but are not limited to the following:
 <ul>Notification of acceptance: <b>27th October 2023</b></ul>
 <ul>SlideLive presentation pre-recording upload for NeurIPS (hard deadline): <b>10th November 2023</b></ul>
 <ul>Camera ready paper: <b>17th November 2023</b></ul>
-<ul>Workshop Date: <b>15th or 16th December 2023</b></ul>
+<ul>Workshop Date: <b>16th December 2023</b></ul>
 
 # Submissions
 
