@@ -421,7 +421,8 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li> Matteo Tiezzi (University of Siena) </li>  
 <li> Sema Candemir (Eskişehir Technical University) </li>
 <li> Zhiyun Xue (NIH) </li>
-<li> ‪Cihan Topal‬ (ITU) </li>
+<li> ‪Cihan Topal‬ (Istanbul Teknik Üniversitesi) </li>
+<li> Aakash Bansal (Notre DameD) </li>
 </ul>
 
 # Endorsements & Acknowledgements <a name="endorsements"></a>
