@@ -423,6 +423,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li> Zhiyun Xue (NIH) </li>
 <li> ‪Cihan Topal‬ (Istanbul Teknik Üniversitesi) </li>
 <li> Aakash Bansal (Notre Dame) </li>
+<li> Ricardo Bigolin Lanfredi (University of Utah) </li>
 </ul>
 
 # Endorsements & Acknowledgements <a name="endorsements"></a>
