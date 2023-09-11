@@ -424,6 +424,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li> ‪Cihan Topal‬ (Istanbul Teknik Üniversitesi) </li>
 <li> Aakash Bansal (Notre Dame) </li>
 <li> Ricardo Bigolin Lanfredi (NIH) </li>
+<li>Florian Strohm (University of Stuttgart)</li>
 </ul>
 
 # Endorsements & Acknowledgements <a name="endorsements"></a>
