@@ -425,6 +425,11 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li> Aakash Bansal (Notre Dame) </li>
 <li> Ricardo Bigolin Lanfredi (NIH) </li>
 <li>Florian Strohm (University of Stuttgart)</li>
+<li>Efe Bozkir (University of Tübingen)</li>
+<li>Kamran Binaee (Magic Leap)</li>
+<li>Junwen Wu (Intel)</li>
+<li>Nishant Rai(Stanford University)</li>
+<li>Brendan David-John(Virgina Tech)</li>
 </ul>
 
 # Endorsements & Acknowledgements <a name="endorsements"></a>
