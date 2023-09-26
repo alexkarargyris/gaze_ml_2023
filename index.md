@@ -308,7 +308,7 @@ Topics of interest include but are not limited to the following:
 
 # Important Dates
 
-<ul>Submission due: <b>27th September 2023</b></ul>
+<ul>Submission due: <strike><b>27th September 2023</b></strike> <font size=10><b>8th October 2023</b></font></ul>
 <ul>Reviewing starts: <b>30th September 2023</b></ul>
 <ul>Reviewing ends: <b>16th October 2023</b></ul>
 <ul>Notification of acceptance: <b>27th October 2023</b></ul>
