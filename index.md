@@ -309,8 +309,8 @@ Topics of interest include but are not limited to the following:
 # Important Dates
 
 <ul>Submission due: <strike><b>27th September 2023</b></strike> <font size=4><b>8th October 2023</b></font></ul>
-<ul>Reviewing starts: <strike><b>30th September 2023</b></strike><b>9th October 2023</b></ul>
-<ul>Reviewing ends: <strike><b>16th October 2023</b></strike><b>23rd October 2023</b></ul>
+<ul>Reviewing starts: <strike><b>30th September 2023</b></strike> <b>9th October 2023</b></ul>
+<ul>Reviewing ends: <strike><b>16th October 2023</b></strike> <b>23rd October 2023</b></ul>
 <ul>Notification of acceptance: <b>27th October 2023</b></ul>
 <ul>SlideLive presentation pre-recording upload for NeurIPS (hard deadline): <b>10th November 2023</b></ul>
 <ul>Camera ready paper: <b>17th November 2023</b></ul>
