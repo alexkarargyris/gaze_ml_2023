@@ -414,7 +414,6 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li> Sivarama Krishnan Rajaraman (NIH) </li>
 <li> Spyridon Bakas (University of Pennsylvania) </li>
 <li> Szilard Vajda (Central Washington University) </li>
-<li> Wolfgang Mehringer (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
 <li> Leo Schwinn (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>  
 <li> Thomas Altstidl (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li> 
 <li> Kai Kohlhoff (Google Research) </li> 
@@ -428,8 +427,9 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 <li>Efe Bozkir (University of Tübingen)</li>
 <li>Kamran Binaee (Magic Leap)</li>
 <li>Junwen Wu (Intel)</li>
-<li>Nishant Rai(Stanford University)</li>
-<li>Brendan David-John(Virgina Tech)</li>
+<li>Nishant Rai (Stanford University)</li>
+<li>Brendan David-John (Virgina Tech)</li>
+<li>Jason Li (MIT)</li>
 </ul>
 
 # Endorsements & Acknowledgements <a name="endorsements"></a>
