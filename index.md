@@ -397,40 +397,46 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 # Program Committee <a name="program_committee"></a>
 
 <ul>
-<li> Anna Lisa Gentile (IBM Research) </li>
-<li> Daniel Gruhl (IBM Research) </li>
-<li> Ehsan Degan (IBM Research) </li>
-<li> G Anthony Reina (Resilience) </li>
-<li> Henning Müller (HES-SO Valais) </li>
-<li> Hongzhi Wang (IBM Research) </li>
-<li> Ken C. L. Wong (IBM Research) </li>
-<li> Maria Xenochristou (Stanford University) </li>
-<li> Mansi Sharma (Intel) </li>
-<li> Mehdi Moradi (Google) </li>
-<li> Niharika Shimona D'Souza (IBM Research) </li>
-<li> Peter Mattson (Google) </li>
-<li> Prashant Shah (Intel) </li>
-<li> Sameer Antani (NIH) </li>
-<li> Sivarama Krishnan Rajaraman (NIH) </li>
-<li> Spyridon Bakas (University of Pennsylvania) </li>
-<li> Szilard Vajda (Central Washington University) </li>
-<li> Leo Schwinn (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>  
-<li> Thomas Altstidl (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li> 
-<li> Kai Kohlhoff (Google Research) </li> 
-<li> Matteo Tiezzi (University of Siena) </li>  
-<li> Sema Candemir (Eskişehir Technical University) </li>
-<li> Zhiyun Xue (NIH) </li>
-<li> ‪Cihan Topal‬ (Istanbul Teknik Üniversitesi) </li>
-<li> Aakash Bansal (Notre Dame) </li>
-<li> Ricardo Bigolin Lanfredi (NIH) </li>
-<li>Florian Strohm (University of Stuttgart)</li>
-<li>Efe Bozkir (University of Tübingen)</li>
-<li>Kamran Binaee (Magic Leap)</li>
-<li>Junwen Wu (Intel)</li>
-<li>Nishant Rai (Stanford University)</li>
-<li>Brendan David-John (Virgina Tech)</li>
-<li>Jason Li (MIT)</li>
+  <li> Aakash Bansal (Notre Dame) </li>
+  <li> Akshita Singh (Dana-Farber Cancer Institute) </li>
+  <li> Benedikt W. Hosp (University of Tübingen) </li>
+  <li> Brendan David-John (Virginia Tech) </li>
+  <li> Cihan Topal (Istanbul Teknik Üniversitesi) </li>
+  <li> Christian Chukwudi Mathew (Virginia Tech) </li>
+  <li> Daniel Gruhl (IBM Research) </li>
+  <li> Efe Bozkir (University of Tübingen) </li>
+  <li> Ehsan Degan (IBM Research) </li>
+  <li> Florian Strohm (University of Stuttgart) </li>
+  <li> G Anthony Reina (Resilience) </li>
+  <li> Henning Müller (HES-SO Valais) </li>
+  <li> Jason Li (MIT) </li>
+  <li> Julia Alekseenko (IHU Strasbourg) </li>
+  <li> Junwen Wu (Intel) </li>
+  <li> Kamran Binaee (Magic Leap) </li>
+  <li> Ken C. L. Wong (IBM Research) </li>
+  <li> Leo Schwinn (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
+  <li> Mansi Sharma (Intel) </li>
+  <li> Maria Xenochristou (Stanford University) </li>
+  <li> Matteo Tiezzi (University of Siena) </li>
+  <li> Mehdi Moradi (Google) </li>
+  <li> Neerav Karani (MIT CSAIL) </li>
+  <li> Niharika Shimona D'Souza (IBM Research) </li>
+  <li> Nishant Rai (Stanford University) </li>
+  <li> Prashant Shah (Intel) </li>
+  <li> Ricardo Bigolin Lanfredi (NIH) </li>
+  <li> Sameer Antani (NIH) </li>
+  <li> Sema Candemir (Eskişehir Technical University) </li>
+  <li> Sivarama Krishnan Rajaraman (NIH) </li>
+  <li> Sokratis Makrogiannis (Delaware State University) </li>
+  <li> Spyridon Bakas (University of Pennsylvania) </li>
+  <li> Swati Jindal (University of California Santa Cruz) </li>
+  <li> Szilard Vajda (Central Washington University) </li>
+  <li> Thomas Altstidl (Friedrich-Alexander-Universität Erlangen-Nürnberg) </li>
+  <li> Toheeb Balogun (University of California San Diego) </li>
+  <li> Zhiyun Xue (NIH) </li>
 </ul>
+
+
 
 # Endorsements & Acknowledgements <a name="endorsements"></a>
 
