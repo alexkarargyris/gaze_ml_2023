@@ -338,7 +338,8 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 
 <!-- Abstract: First I’ll discuss our early work of 1990-91 on learning internal attention and on attentive neural networks that learn to steer foveas; then I’ll mention what happened in the subsequent 3 decades. In preparation for this workshop, I made two overview websites: 1. End-to-End Differentiable Sequential Neural Attention 1990-93 https://people.idsia.ch/~juergen/neural-attention-1990-1993.html. 2. Learning internal spotlights of attention with what’s now called "Transformers with linearized self-attention" which are formally equivalent to my 1991 Fast Weight Programmers: https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html -->
 
- # Speakers <a name="invited_speakers"></a>
+ 
+# Speakers <a name="invited_speakers"></a>
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Tim_Rolff_cropped.jpg" width="200"/>](speakers#tim) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Vidhya_Navalpakkam_cropped.jpg" width="200"/>](speakers#vidhya) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/bert.jpeg" width="200"/>](speakers#bert) |
 | :-: | :-: | :-: |
