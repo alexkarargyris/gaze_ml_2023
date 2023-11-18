@@ -343,7 +343,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Tim_Rolff_cropped.jpg" width="200"/>](speakers#tim) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Vidhya_Navalpakkam_cropped.jpg" width="200"/>](speakers#vidhya) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/bert.jpeg" width="200"/>](speakers#bert) |
 | :-: | :-: | :-: |
 | [**Tim Roff**](speakers#tim) | [**Vidhya_Navalpakkam**](speakers#vidhya) | [**Bertram E. Shi, Ph.D.**](speakers#bert) |
-| **University of Hamburg** | **Google Research** | **Hong Kong University of Science and Technology (HKUST)** |
+| **University of Hamburg** | **Google Research** | **HKUST** |
 
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/rm.jpeg" width="200"/>](speakers#rm)|
 | :-: |
