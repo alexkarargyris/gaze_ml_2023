@@ -1,10 +1,10 @@
----
+<!---
 layout: home
 title: Call For Sponsors
 permalink: /call_for_sponsors/
----
+--->
 
-## Sponsorship Areas
+<!---## Sponsorship Areas
 
 Currently, we are looking for sponsors for the following areas:
 
@@ -41,4 +41,4 @@ The division and benefits(from Benefit section above) between levels of sponsori
 
 - **Platinum:** Acknowledgment + Promotional Material + Sponsored Lighting Talk + A tailored deal, for example, make you the sponsor for a workshop event: $5000
 
-If you are interested in sponsoring the <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop or if you would like to know more, please feel free to reach out to <span style="color:MediumBlue">gaze.neurips@gmail.com</span>
+If you are interested in sponsoring the <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop or if you would like to know more, please feel free to reach out to <span style="color:MediumBlue">gaze.neurips@gmail.com</span> --->
