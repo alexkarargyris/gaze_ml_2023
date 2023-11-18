@@ -338,17 +338,17 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 
 <!-- Abstract: First I’ll discuss our early work of 1990-91 on learning internal attention and on attentive neural networks that learn to steer foveas; then I’ll mention what happened in the subsequent 3 decades. In preparation for this workshop, I made two overview websites: 1. End-to-End Differentiable Sequential Neural Attention 1990-93 https://people.idsia.ch/~juergen/neural-attention-1990-1993.html. 2. Learning internal spotlights of attention with what’s now called "Transformers with linearized self-attention" which are formally equivalent to my 1991 Fast Weight Programmers: https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html -->
 
-<!-- # Speakers <a name="invited_speakers"></a>
+ # Speakers <a name="invited_speakers"></a>
 
-| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Scott_Linderman_cropped.jpg" width="200"/>](speakers#linderman) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Gabriel_Silva_cropped.jpg" width="200"/>](speakers#silva) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Claudia-Mello-Thoms_cropped.jpg" width="200"/>](speakers#mellothoms) |
+| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Tim_Rolff_cropped.jpg" width="200"/>](speakers#tim) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Vidhya_Navalpakkam_cropped.jpg" width="200"/>](speakers#vidhya) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/bert.jpg" width="200"/>](speakers#bert) |
 | :-: | :-: | :-: |
-| [**Scott W. Linderman, Ph.D.**](speakers#linderman) | [**Gabriel A. Silva, Ph.D.**](speakers#silva) | [**Claudia Mello-Thoms, MS, Ph.D.**](speakers#mellothoms) |
-| **Stanford** | **UC San Diego** | **University of Iowa** |
+| [**Tim Roff**](speakers#tim) | [**Vidhya_Navalpakkam**](speakers#vidhya) | [**Bertram E. Shi, Ph.D.**](speakers#bert) |
+| **University of Hamburg** | **Google Research** | **Hong Kong University of Science and Technology (HKUST)** |
 
-| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Eckstein_Miguel_cropped.jpg" width="200"/>](speakers#eckstein) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Tobias_Gerstenberg_cropped.jpg" width="200"/>](speakers#gerstenberg) |
-| :-: | :-: |
-| [**Miguel P. Eckstein, Ph.D.**](speakers#eckstein) | [**Tobias Gerstenberg, MSc, Ph.D.**](speakers#gerstenberg) |
-| **UC Santa Barbara** | **Stanford** | -->
+| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/rm.jpeg" width="200"/>](speakers#rm)|
+| :-: |
+| [**Roberto Manduchi, Ph.D.**](speakers#rm) |
+| **UC Santa Cruz** | 
 
 # Organizers <a name="organizers"></a>
 <table>
