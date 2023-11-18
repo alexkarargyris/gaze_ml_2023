@@ -1,10 +1,10 @@
-<!---
+---
 layout: home
 title: Presentations
 permalink: /presentations/
---->
+---
 
-<!-- We want to congratulate the authors for the following accepted work to be presented at the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 16, 2023</b> in conjunction with NeurIPS 2023. We will be updating this page with more detailed schedule for the workshop shortly.
+We want to congratulate the authors for the following accepted work to be presented at the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 16, 2023</b> in conjunction with NeurIPS 2023. We will be updating this page with more detailed schedule for the workshop shortly.
 
 
 ## Full Papers
@@ -33,4 +33,4 @@ permalink: /presentations/
 - [Human-like multiple object tracking through occlusion via gaze-following](https://openreview.net/forum?id=arfdjgKyhz) (Poster)
 - [FoVAE: Reconstructive Foveation as a Self-Supervised Variational Inference Task for Visual Representation Learning](https://openreview.net/forum?id=bGHlCkrceS) (Poster)
 - [Evaluating Peripheral Vision as an Input Transformation to Understand Object Detection Model Behavior](https://openreview.net/forum?id=y5ihmWxYWx) (Poster)
-- [Inverting cognitive models with machine learning to infer preferences from fixations](https://openreview.net/forum?id=ai0ES5VAAM) (Poster) -->
+- [Inverting cognitive models with machine learning to infer preferences from fixations](https://openreview.net/forum?id=ai0ES5VAAM) (Poster)
