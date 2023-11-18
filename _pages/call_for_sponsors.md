@@ -17,9 +17,9 @@ Currently, we are looking for sponsors for the following areas:
 
 <!-- - **Student Travel Awards**: We are looking to providing support to student participants, especially enhancing our diversity and inclusion efforts.  -->
 
-- **Support for the Invited Speakers**: We have an amazing lineup of experts at the intersection of machine learning, neuroscience, psychology and eye gaze. We are looking to provide support for their travel costs, conference registration and, if possible, a small thank you gift.
+<!-- - **Support for the Invited Speakers**: We have an amazing lineup of experts at the intersection of machine learning, neuroscience, psychology and eye gaze. We are looking to provide support for their travel costs, conference registration and, if possible, a small thank you gift. -->
 
-- **Workshop swags**: As with any workshops, we hope to attract many participants and would love to be able to gather more interests with some small free gifts.
+<!-- - **Workshop swags**: As with any workshops, we hope to attract many participants and would love to be able to gather more interests with some small free gifts.
 
 ## Benefits
 
