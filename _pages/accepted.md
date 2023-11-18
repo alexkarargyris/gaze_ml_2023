@@ -4,7 +4,7 @@ title: Presentations
 permalink: /presentations/
 ---
 
-We want to congratulate the authors for the following accepted work to be presented at the first-ever <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 16, 2023</b> in conjunction with NeurIPS 2023. We will be updating this page with more detailed schedule for the workshop shortly.
+We want to congratulate the authors for the following accepted work to be presented at the <span style="color:MediumSeaGreen">Gaze Meets ML</span> workshop on <b>December 16, 2023</b> in conjunction with NeurIPS 2023. We will be updating this page with more detailed schedule for the workshop shortly.
 
 
 ## Full Papers
