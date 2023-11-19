@@ -54,8 +54,8 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-
-
+# Schedule
+All times are in Central Time
 
 <table class="tg">
 <thead>
@@ -155,7 +155,8 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
 </tbody>
 </table>  
 
-<!-- 
+        
+<!--
 # Tentative Program
 <ul>
     <li>Morning session (225 mins):
@@ -183,7 +184,6 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
     </li>
 </ul> -->
 
-All times are in Central Time
 
 # Call for Papers
 
