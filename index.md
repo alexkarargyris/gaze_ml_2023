@@ -40,7 +40,7 @@ gaze-assisted machine learning.
 
 For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/">Gaze Meets ML 2022.</a>
 
-<!--
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -53,8 +53,9 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
 .tg .tg-ndde{color:#2294E0;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-w1dh{color:#212529;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-</style> -->
+</style> 
 
+<!--
 # Workshop Schedule
 All times are in Central Time
 
@@ -126,12 +127,12 @@ All times are in Central Time
   <tr>
     <td class="tg-1rwr"><br>Sat 2:15 p.m. - 2:30 p.m.</td>
     <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75504" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Memory-Based Sequential Attention</span></a><a href="https://openreview.net/forum?id=EykfhjYrM0" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">Jason Stock · Charles Anderson</td>
+    <td class="tg-bd63"> Jason Stock · Charles Anderson</td>
   </tr>
     <tr>
     <td class="tg-1rwr"><br>Sat 2:30 p.m. - 2:45 p.m.</td>
     <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75500" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">An Attention-based Predictive Agent for Handwritten Numeral/Alphabet Recognition via Generation</span></a><a href="https://openreview.net/forum?id=v25W8STO2T" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">author</td>
+    <td class="tg-bd63">Bonny Banerjee · Murchana Baruah</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 2:45 p.m. - 4:30 p.m.</td>
@@ -154,7 +155,7 @@ All times are in Central Time
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
-</table>  
+</table>  -->
 
         
 <!--
