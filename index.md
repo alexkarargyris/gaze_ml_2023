@@ -57,7 +57,7 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
 
 
 
-<table class="tg">
+<!-- <table class="tg">
 <thead>
   <tr>
     <th class="tg-av16">Sat 7:30 a.m. - 8:15 a.m.</th>
@@ -153,7 +153,7 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
-</table>
+</table>  -->
 
 # Tentative Program
 <ul>
