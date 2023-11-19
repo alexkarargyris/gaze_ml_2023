@@ -57,11 +57,11 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
 
 
 
-<!-- <table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-av16">Sat 7:30 a.m. - 8:15 a.m.</th>
-    <th class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63683" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Meet and Greet and Getting started</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63683" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Break)</span></th>
+    <th class="tg-ndde"><span style="font-weight:bolder">Meet and Greet and Getting started</span><span style="font-weight:400">(Break)</span></th>
     <th class="tg-bd63"></th>
   </tr>
 </thead>
@@ -73,13 +73,13 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 8:30 a.m. - 9:15 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63682" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63682" target="_blank" rel="noopener noreferrer">
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer">
     <td class="tg-bd63">Bertram Shi</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 9:15 a.m. - 10:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63680" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63680" target="_blank" rel="noopener noreferrer">
-    <td class="tg-bd63">Vidhya</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer">
+    <td class="tg-bd63">Vidhya Navalpakkam</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 10:00 a.m. - 10:30 a.m.</td>
@@ -88,28 +88,28 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
   </tr
   <tr>
     <td class="tg-1rwr"><br>Sat 10:30 a.m. - 10:45 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57755" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Spotlight Paper</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57755" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">author</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75498" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Interaction-aware Dynamic 3D Gaze Estimation in Videos </span></a><a href="https://openreview.net/forum?id=wEoagacatn" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Chenyi Kuang · Jeffrey O Kephart · Qiang Ji</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 10:45 a.m. - 11:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57759" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Spotlight Paper</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57759" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">author</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75499" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">SuperVision: Self-Supervised Super-Resolution for Appearance-Based Gaze Estimation</span></a><a href="https://openreview.net/forum?id=w5uLSMt3Qc" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Galen O'Shea · Majid Komeili</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 11:00 a.m. - 11:15 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57762" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Spotlight Paper</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57762" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">author</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75501" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">EG-SIF: Improving Appearance Based Gaze Estimation using Self Improving Features</span></a><a href="https://openreview.net/forum?id=tY06Zwn3v4" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Vasudev Singh · Chaitanya Langde · Sourav Lakhotia · Vignesh Kannan · Shuaib Ahmed</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 11:15 a.m. - 11:30 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63810" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Spotlight Paper</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63810" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">author</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75502" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Planning by Active Sensing</span></a><a href="https://openreview.net/forum?id=kMNLseFKcT" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Kaushik Lakshminarasimhan · Seren Zhu · Dora Angelaki</td>
   </tr>
     <tr>
     <td class="tg-1rwr"><br>Sat 11:30 a.m. - 11:45 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63810" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Spotlight Paper</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63810" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">author</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75503" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Crafting Good Views of Medical Images for Contrastive Learning via Expert-level Visual Attention</span></a><a href="https://openreview.net/forum?id=JBIfteTlxk" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">Sheng Wang · Zihao Zhao · Lichi Zhang · Dinggang Shen · Qian Wang</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 11:45 a.m. - 1:30 p.m.</td>
@@ -119,17 +119,17 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
 
   <tr>
     <td class="tg-1rwr"><br>Sat 1:30 p.m. - 2:15 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63809" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse63809" target="_blank" rel="noopener noreferrer">
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer">
     <td class="tg-bd63">Tim Roff</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 2:15 p.m. - 2:30 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57764" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Spotlight Papern</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57764" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">author</td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75504" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Memory-Based Sequential Attention</span></a><a href="https://openreview.net/forum?id=EykfhjYrM0" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-bd63">ason Stock · Charles Anderson</td>
   </tr>
     <tr>
     <td class="tg-1rwr"><br>Sat 2:30 p.m. - 2:45 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57764" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Spotlight Paper</span></a><a href="https://neurips.cc/virtual/2023/workshop/49990#collapse57764" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75500" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">An Attention-based Predictive Agent for Handwritten Numeral/Alphabet Recognition via Generation</span></a><a href="https://openreview.net/forum?id=v25W8STO2T" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
     <td class="tg-bd63">author</td>
   </tr>
   <tr>
@@ -144,17 +144,18 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 4:30 p.m. - 4:45 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Wrap Up - Sponsors</span></td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Wrap Up - Sponsors Talk and Award Ceremony</span></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 4:45 p.m. - 5:00 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Wrap Up - Closing remarks</span> <span style="font-weight:400">(Closing)</span></td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Wrap Up - Closing Remarks</span> <span style="font-weight:400">(Closing)</span></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
-</table>  -->
+</table>  
 
+<!-- 
 # Tentative Program
 <ul>
     <li>Morning session (225 mins):
@@ -180,7 +181,7 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
             <li>Closing Remarks (10 mins)</li>
         </ul>
     </li>
-</ul>
+</ul> -->
 
 All times are in Central Time
 
