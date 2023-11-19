@@ -118,7 +118,6 @@ All times are in Central Time
     <td class="tg-w1dh"><span style="font-weight:bolder">Lunch</span> <span style="font-weight:400">(Lunch and Poster Walk-Around)</span></td>
     <td class="tg-bd63"></td>
   </tr>
-
   <tr>
     <td class="tg-1rwr"><br>Sat 1:30 p.m. - 2:15 p.m.</td>
     <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer">
@@ -129,7 +128,7 @@ All times are in Central Time
     <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75504" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Memory-Based Sequential Attention</span></a><a href="https://openreview.net/forum?id=EykfhjYrM0" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
     <td class="tg-bd63"> Jason Stock · Charles Anderson</td>
   </tr>
-    <tr>
+  <tr>
     <td class="tg-1rwr"><br>Sat 2:30 p.m. - 2:45 p.m.</td>
     <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75500" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">An Attention-based Predictive Agent for Handwritten Numeral/Alphabet Recognition via Generation</span></a><a href="https://openreview.net/forum?id=v25W8STO2T" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
     <td class="tg-bd63">Bonny Banerjee · Murchana Baruah</td>
@@ -244,8 +243,37 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 
  
 # Speakers <a name="invited_speakers"></a>
+<table>
+  <tr>
+    <td>
+      <a href="speakers#tim">
+        <img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Tim_Rolff_cropped.jpg" width="200"/>
+      </a>
+      <br>
+      <a href="speakers#tim"><strong>Tim Roff</strong></a>
+      <br>University of Hamburg
+    </td>
+    <td>
+      <a href="speakers#vidhya">
+        <img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Vidhya_Navalpakkam_cropped.jpg" width="200"/>
+      </a>
+      <br>
+      <a href="speakers#vidhya"><strong>Vidhya Navalpakkam</strong></a>
+      <br>Google Research
+    </td>
+    <td>
+      <a href="speakers#bert">
+        <img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/bert.jpeg" width="200"/>
+      </a>
+      <br>
+      <a href="speakers#bert"><strong>Bertram E. Shi, Ph.D.</strong></a>
+      <br>HKUST
+    </td>
+  </tr>
+</table>
 
-| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Tim_Rolff_cropped.jpg" width="200"/>](speakers#tim) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Vidhya_Navalpakkam_cropped.jpg" width="200"/>](speakers#vidhya) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/bert.jpeg" width="200"/>](speakers#bert) |
+
+<!--| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Tim_Rolff_cropped.jpg" width="200"/>](speakers#tim) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/Vidhya_Navalpakkam_cropped.jpg" width="200"/>](speakers#vidhya) | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/bert.jpeg" width="200"/>](speakers#bert) |
 | :-: | :-: | :-: |
 | [**Tim Roff**](speakers#tim) | [**Vidhya_Navalpakkam**](speakers#vidhya) | [**Bertram E. Shi, Ph.D.**](speakers#bert) |
 | **University of Hamburg** | **Google Research** | **HKUST** |
@@ -253,7 +281,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 | [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/rm.jpeg" width="200"/>](speakers#rm)|
 | :-: |
 | [**Roberto Manduchi, Ph.D.**](speakers#rm) |
-| **UC Santa Cruz** | 
+| **UC Santa Cruz** | -->
 
 # Organizers <a name="organizers"></a>
 <table>
