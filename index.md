@@ -39,7 +39,7 @@ bring together an active research community to collectively drive progress in de
 gaze-assisted machine learning.
 
 For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/">Gaze Meets ML 2022.</a>
-
+<!--
 # Workshop Schedule
 
 All times are in Central Time
@@ -153,8 +153,7 @@ All times are in Central Time
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
-</table>
-<br/>
+</table> -->
 
         
 <!--
@@ -229,7 +228,6 @@ The workshop will feature two tracks for submission: a **full, archival proceedi
     <li>References and appendix should be appended into the same (single) PDF document, and do not count towards the page count.</li>
 </ul>
 
-<div>
 # FAQs
 
 For a list of commonly asked questions, please see <a href="https://gaze-meets-ml.github.io/gaze_ml_2023/faq/">FAQs</a>
@@ -240,10 +238,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 [**Jürgen Schmidhuber, Ph.D.**](speakers#schmidhuber) -->
 
 <!-- Abstract: First I’ll discuss our early work of 1990-91 on learning internal attention and on attentive neural networks that learn to steer foveas; then I’ll mention what happened in the subsequent 3 decades. In preparation for this workshop, I made two overview websites: 1. End-to-End Differentiable Sequential Neural Attention 1990-93 https://people.idsia.ch/~juergen/neural-attention-1990-1993.html. 2. Learning internal spotlights of attention with what’s now called "Transformers with linearized self-attention" which are formally equivalent to my 1991 Fast Weight Programmers: https://people.idsia.ch/~juergen/fast-weight-programmer-1991-transformer.html -->
-</div>
-<br/>
-<br/>
-<div>
+
     
 # Speakers <a name="invited_speakers"></a>
 
@@ -256,7 +251,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 | :-: |
 | [**Roberto Manduchi, Ph.D.**](speakers#rm) |
 | **UC Santa Cruz** |
-</div>
+
 
 # Organizers <a name="organizers"></a>
 <table>
