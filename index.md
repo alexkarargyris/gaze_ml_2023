@@ -79,7 +79,7 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 9:15 a.m. - 10:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"/></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"/></td>
     <td class="tg-bd63">Vidhya Navalpakkam</td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 1:30 p.m. - 2:15 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"/></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"/></td>
     <td class="tg-bd63">Tim Roff</td>
   </tr>
   <tr>
