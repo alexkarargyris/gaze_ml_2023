@@ -55,7 +55,7 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style> 
 
-<!--
+
 # Workshop Schedule
 All times are in Central Time
 
@@ -154,7 +154,7 @@ All times are in Central Time
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
-</table>  -->
+</table>
 
         
 <!--
