@@ -94,22 +94,22 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 10:45 a.m. - 11:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75499" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">SuperVision: Self-Supervised Super-Resolution for Appearance-Based Gaze Estimation</span></a><a href="https://openreview.net/forum?id=w5uLSMt3Qc" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75499" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">SuperVision: Self-Supervised Super-Resolution for Appearance-Based Gaze Estimation</span></a><a href="https://openreview.net/forum?id=w5uLSMt3Qc" target="_blank" rel="noopener noreferrer"><span style="font-weight:400">(Spotlight)</span></a></td>
     <td class="tg-bd63">Galen O'Shea · Majid Komeili</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 11:00 a.m. - 11:15 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75501" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">EG-SIF: Improving Appearance Based Gaze Estimation using Self Improving Features</span></a><a href="https://openreview.net/forum?id=tY06Zwn3v4" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75501" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">EG-SIF: Improving Appearance Based Gaze Estimation using Self Improving Features</span></a><a href="https://openreview.net/forum?id=tY06Zwn3v4" target="_blank" rel="noopener noreferrer"> <span style="font-weight:400">(Spotlight)</span></a></td>
     <td class="tg-bd63">Vasudev Singh · Chaitanya Langde · Sourav Lakhotia · Vignesh Kannan · Shuaib Ahmed</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 11:15 a.m. - 11:30 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75502" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Planning by Active Sensing</span></a><a href="https://openreview.net/forum?id=kMNLseFKcT" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75502" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Planning by Active Sensing</span></a><a href="https://openreview.net/forum?id=kMNLseFKcT" target="_blank" rel="noopener noreferrer"><span style="font-weight:400">(Spotlight)</span></a></td>
     <td class="tg-bd63">Kaushik Lakshminarasimhan · Seren Zhu · Dora Angelaki</td>
   </tr>
     <tr>
     <td class="tg-1rwr"><br>Sat 11:30 a.m. - 11:45 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75503" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Crafting Good Views of Medical Images for Contrastive Learning via Expert-level Visual Attention</span></a><a href="https://openreview.net/forum?id=JBIfteTlxk" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75503" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Crafting Good Views of Medical Images for Contrastive Learning via Expert-level Visual Attention</span></a><a href="https://openreview.net/forum?id=JBIfteTlxk" target="_blank" rel="noopener noreferrer"><span style="font-weight:400">(Spotlight)</span></a></td>
     <td class="tg-bd63">Sheng Wang · Zihao Zhao · Lichi Zhang · Dinggang Shen · Qian Wang</td>
   </tr>
   <tr>
@@ -124,12 +124,12 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 2:15 p.m. - 2:30 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75504" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Memory-Based Sequential Attention</span></a><a href="https://openreview.net/forum?id=EykfhjYrM0" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75504" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Memory-Based Sequential Attention</span></a><a href="https://openreview.net/forum?id=EykfhjYrM0" target="_blank" rel="noopener noreferrer"><span style="font-weight:400">(Spotlight)</span></a></td>
     <td class="tg-bd63"> Jason Stock · Charles Anderson</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 2:30 p.m. - 2:45 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75500" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">An Attention-based Predictive Agent for Handwritten Numeral/Alphabet Recognition via Generation</span></a><a href="https://openreview.net/forum?id=v25W8STO2T" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75500" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">An Attention-based Predictive Agent for Handwritten Numeral/Alphabet Recognition via Generation</span></a><a href="https://openreview.net/forum?id=v25W8STO2T" target="_blank" rel="noopener noreferrer"><span style="font-weight:400">(Spotlight)</span></a></td>
     <td class="tg-bd63">Bonny Banerjee · Murchana Baruah</td>
   </tr>
   <tr>
