@@ -22,7 +22,7 @@ For questions and further information, please reach out to [gaze.neurips@gmail.c
 # About
 
 Eye gaze has proven to be a cost-efficient way to collect large-scale physiological data that can reveal the underlying
-human attentional patterns in real-life workflows, and thus has long been explored as a signal to directly measure
+human attentional patterns in real-life workflows and thus has long been explored as a signal to directly measure
 human-related cognition in various domains. Physiological data (including but not limited to eye gaze) offer new
 perception capabilities, which could be used in several ML domains, e.g., egocentric perception, embodied AI, NLP, etc.
 They can help infer human perception, intentions, beliefs, goals, and other cognition properties that are much needed for
@@ -31,10 +31,10 @@ data-driven modeling of human visual attention mechanisms, both for saliency or 
 advantages: from the neuroscientific perspective to understand biological mechanisms better, from the AI perspective to
 equip agents with the ability to mimic or predict human behavior and improve interpretability and interactions.
 
-With the emergence of immersive technologies, now more than any time there is a need for experts of various backgrounds
+With the emergence of immersive technologies, now more than any time, there is a need for experts from various backgrounds
 (e.g., machine learning, vision, and neuroscience communities) to share expertise and contribute to a deeper
 understanding of the intricacies of cost-efficient human supervision signals (e.g., eye-gaze) and their utilization
-towards by bridging human cognition and AI in machine learning research and development. The goal of this workshop is to
+towards bridging human cognition and AI in machine learning research and development. The goal of this workshop is to
 bring together an active research community to collectively drive progress in defining and addressing core problems in
 gaze-assisted machine learning.
 
@@ -89,7 +89,7 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 10:30 a.m. - 10:45 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75498" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Interaction-aware Dynamic 3D Gaze Estimation in Videos </span></a><a href="https://openreview.net/forum?id=wEoagacatn" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75498" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Interaction-aware Dynamic 3D Gaze Estimation in Videos </span></a><a href="https://openreview.net/forum?id=wEoagacatn" target="_blank" rel="noopener noreferrer"> <span style="font-weight:400">(Spotlight)</span></a></td>
     <td class="tg-bd63">Chenyi Kuang · Jeffrey O Kephart · Qiang Ji</td>
   </tr>
   <tr>
