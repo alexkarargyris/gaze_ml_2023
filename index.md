@@ -41,7 +41,7 @@ gaze-assisted machine learning.
 For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/">Gaze Meets ML 2022.</a>
 
 # Workshop Schedule
-
+Webpage: https://neurips.cc/virtual/2023/workshop/66537 
 All times are in Central Time
 
 <style type="text/css">
