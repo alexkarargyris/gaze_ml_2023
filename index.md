@@ -39,6 +39,7 @@ bring together an active research community to collectively drive progress in de
 gaze-assisted machine learning.
 
 For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/">Gaze Meets ML 2022.</a>
+
 <!--
 # Workshop Schedule
 
@@ -57,7 +58,6 @@ All times are in Central Time
 .tg .tg-w1dh{color:#212529;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style> 
-<br/>
 <table class="tg">
 <thead>
   <tr>
@@ -153,7 +153,8 @@ All times are in Central Time
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
-</table> -->
+</table> 
+-->
 
         
 <!--
