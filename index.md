@@ -79,7 +79,7 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 9:15 a.m. - 10:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"/></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk: Accelerating human attention research via smartphones</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"/></td>
     <td class="tg-bd63">Vidhya Navalpakkam</td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 1:30 p.m. - 2:15 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"/></td>
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk: Gazing into the crystal ball: Predicting future gaze events in virtual reality</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"/></td>
     <td class="tg-bd63">Tim Rolff</td>
   </tr>
   <tr>
@@ -215,7 +215,7 @@ Topics of interest include but are not limited to the following:
 <ul>Reviewing ends: <strike><b>16th October 2023</b></strike> <b>23rd October 2023</b></ul>
 <ul>Notification of acceptance: <b>27th October 2023</b></ul>
 <ul>SlideLive presentation pre-recording upload for NeurIPS (hard deadline): <b>10th November 2023</b></ul>
-<ul>Camera ready paper: <b>17th November 2023</b></ul>
+<ul>Camera ready paper: <strike><b>17th November 2023</b></strike> <b>20th November 2023</b></ul>
 <ul>Workshop Date: <b>16th December 2023</b></ul>
 
 # Submissions
