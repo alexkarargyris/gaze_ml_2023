@@ -42,6 +42,7 @@ For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/
 
 # Workshop Schedule
 Webpage: https://neurips.cc/virtual/2023/workshop/66537 
+
 All times are in Central Time
 
 <style type="text/css">
