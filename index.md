@@ -75,7 +75,7 @@ All times are in Central Time
   <tr>
     <td class="tg-1rwr"><br>Sat 8:30 a.m. - 9:15 a.m.</td>
     <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"/></td>
-    <td class="tg-bd63">Bertram Shi</td>
+    <td class="tg-bd63">Bertram E. Shi</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 9:15 a.m. - 10:00 a.m.</td>
@@ -120,7 +120,7 @@ All times are in Central Time
   <tr>
     <td class="tg-1rwr"><br>Sat 1:30 p.m. - 2:15 p.m.</td>
     <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"/></td>
-    <td class="tg-bd63">Tim Roff</td>
+    <td class="tg-bd63">Tim Rolff</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 2:15 p.m. - 2:30 p.m.</td>
