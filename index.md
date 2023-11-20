@@ -70,16 +70,16 @@ All times are in Central Time
   <tr>
     <td class="tg-1rwr"><br>Sat 8:15 a.m. - 8:30 a.m.</td>
     <td class="tg-w1dh"><span style="font-weight:bolder">Opening Remarks (15 mins) Organizers</span> <span style="font-weight:400">(Opening Remarks)</span></td>
-    <td class="tg-bd63"></td>
+   <!-- <td class="tg-bd63"></td> -->
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 8:30 a.m. - 9:15 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer">
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"/> </td>
     <td class="tg-bd63">Bertram Shi</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 9:15 a.m. - 10:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer">
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"/></td>
     <td class="tg-bd63">Vidhya Navalpakkam</td>
   </tr>
   <tr>
