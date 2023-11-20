@@ -270,7 +270,7 @@ All times are in Central Time
     <td class="tg-1rwr"><br>Sat 10:00 a.m. - 10:30 a.m.</td>
     <td class="tg-w1dh"><span style="font-weight:bolder">Coffee Break</span> <span style="font-weight:400">(Coffee Break and Poster Walk-Around)</span></td>
     <td class="tg-bd63"></td>
-  </tr
+  </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 10:30 a.m. - 10:45 a.m.</td>
     <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75498" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Interaction-aware Dynamic 3D Gaze Estimation in Videos </span></a><a href="https://openreview.net/forum?id=wEoagacatn" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
