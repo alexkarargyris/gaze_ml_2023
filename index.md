@@ -40,121 +40,6 @@ gaze-assisted machine learning.
 
 For past Gaze Meets ML workshop, visit <a href="https://gaze-meets-ml.github.io/gaze_ml_2022/">Gaze Meets ML 2022.</a>
 
-<!--
-# Workshop Schedule
-
-All times are in Central Time
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bd63{color:#212529;font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-1rwr{color:#008000;text-align:left;vertical-align:top}
-.tg .tg-av16{color:#212529;text-align:left;vertical-align:top}
-.tg .tg-ndde{color:#2294E0;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-w1dh{color:#212529;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style> 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-av16">Sat 7:30 a.m. - 8:15 a.m.</th>
-    <th class="tg-ndde"><span style="font-weight:bolder">Meet and Greet and Getting started</span><span style="font-weight:400">(Break)</span></th>
-    <th class="tg-bd63"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 8:15 a.m. - 8:30 a.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Opening Remarks (15 mins) Organizers</span> <span style="font-weight:400">(Opening Remarks)</span></td>
-   <!-- <td class="tg-bd63"></td> -->
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 8:30 a.m. - 9:15 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"/> </td>
-    <td class="tg-bd63">Bertram Shi</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 9:15 a.m. - 10:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"/></td>
-    <td class="tg-bd63">Vidhya Navalpakkam</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 10:00 a.m. - 10:30 a.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Coffee Break</span> <span style="font-weight:400">(Coffee Break and Poster Walk-Around)</span></td>
-    <td class="tg-bd63"></td>
-  </tr
-  <tr>
-    <td class="tg-1rwr"><br>Sat 10:30 a.m. - 10:45 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75498" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Interaction-aware Dynamic 3D Gaze Estimation in Videos </span></a><a href="https://openreview.net/forum?id=wEoagacatn" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">Chenyi Kuang · Jeffrey O Kephart · Qiang Ji</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 10:45 a.m. - 11:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75499" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">SuperVision: Self-Supervised Super-Resolution for Appearance-Based Gaze Estimation</span></a><a href="https://openreview.net/forum?id=w5uLSMt3Qc" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">Galen O'Shea · Majid Komeili</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 11:00 a.m. - 11:15 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75501" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">EG-SIF: Improving Appearance Based Gaze Estimation using Self Improving Features</span></a><a href="https://openreview.net/forum?id=tY06Zwn3v4" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">Vasudev Singh · Chaitanya Langde · Sourav Lakhotia · Vignesh Kannan · Shuaib Ahmed</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 11:15 a.m. - 11:30 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75502" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Planning by Active Sensing</span></a><a href="https://openreview.net/forum?id=kMNLseFKcT" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">Kaushik Lakshminarasimhan · Seren Zhu · Dora Angelaki</td>
-  </tr>
-    <tr>
-    <td class="tg-1rwr"><br>Sat 11:30 a.m. - 11:45 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75503" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Crafting Good Views of Medical Images for Contrastive Learning via Expert-level Visual Attention</span></a><a href="https://openreview.net/forum?id=JBIfteTlxk" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">Sheng Wang · Zihao Zhao · Lichi Zhang · Dinggang Shen · Qian Wang</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 11:45 a.m. - 1:30 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Lunch</span> <span style="font-weight:400">(Lunch and Poster Walk-Around)</span></td>
-    <td class="tg-bd63"></td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 1:30 p.m. - 2:15 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer">
-    <td class="tg-bd63">Tim Roff</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 2:15 p.m. - 2:30 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75504" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Memory-Based Sequential Attention</span></a><a href="https://openreview.net/forum?id=EykfhjYrM0" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63"> Jason Stock · Charles Anderson</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 2:30 p.m. - 2:45 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/75500" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">An Attention-based Predictive Agent for Handwritten Numeral/Alphabet Recognition via Generation</span></a><a href="https://openreview.net/forum?id=v25W8STO2T" target="_blank" rel="noopener noreferrer"> </a><span style="font-weight:400">(Spotlight)</span></td>
-    <td class="tg-bd63">Bonny Banerjee · Murchana Baruah</td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 2:45 p.m. - 4:30 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Breakout session</span> <span style="font-weight:400">(Discussion within onsite small groups on preselected themes)</span></td>
-    <td class="tg-bd63"></td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 3:00 p.m. - 3:30 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Coffee break</span> <span style="font-weight:400">(Break)</span></td>
-    <td class="tg-bd63"></td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 4:30 p.m. - 4:45 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Wrap Up - Sponsors Talk and Award Ceremony</span></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 4:45 p.m. - 5:00 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Wrap Up - Closing Remarks</span> <span style="font-weight:400">(Closing)</span></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table> 
--->
 
         
 <!--
@@ -373,12 +258,12 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 8:30 a.m. - 9:15 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer">
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk TBD</span></a><a href="https://neurips.cc/virtual/2023/78823" target="_blank" rel="noopener noreferrer"/></td>
     <td class="tg-bd63">Bertram Shi</td>
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 9:15 a.m. - 10:00 a.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer">
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/78824" target="_blank" rel="noopener noreferrer"/></td>
     <td class="tg-bd63">Vidhya Navalpakkam</td>
   </tr>
   <tr>
@@ -418,7 +303,7 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 1:30 p.m. - 2:15 p.m.</td>
-    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer">
+    <td class="tg-ndde"><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"><span style="font-weight:bolder">Invited Talk</span></a><a href="https://neurips.cc/virtual/2023/79300" target="_blank" rel="noopener noreferrer"/></td>
     <td class="tg-bd63">Tim Roff</td>
   </tr>
   <tr>
