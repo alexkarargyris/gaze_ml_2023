@@ -134,12 +134,7 @@ All times are in Central Time
   </tr>
   <tr>
     <td class="tg-1rwr"><br>Sat 2:45 p.m. - 4:30 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Breakout session</span> <span style="font-weight:400">(Discussion within onsite small groups on preselected themes)</span></td>
-    <td class="tg-bd63"></td>
-  </tr>
-  <tr>
-    <td class="tg-1rwr"><br>Sat 3:00 p.m. - 3:30 p.m.</td>
-    <td class="tg-w1dh"><span style="font-weight:bolder">Coffee break</span> <span style="font-weight:400">(Break)</span></td>
+    <td class="tg-w1dh"><span style="font-weight:bolder">Breakout session</span> <span style="font-weight:400">(Discussion within onsite small groups on preselected themes and Coffee Break)</span></td>
     <td class="tg-bd63"></td>
   </tr>
   <tr>
