@@ -242,10 +242,7 @@ For a list of commonly asked questions, please see <a href="https://gaze-meets-m
 | [**Tim Roff**](speakers#tim) | [**Vidhya Navalpakkam**](speakers#vidhya) | [**Bertram E. Shi, Ph.D.**](speakers#bert) |
 | **University of Hamburg** | **Google Research** | **HKUST** |
 
-| [<img src="https://gaze-meets-ml.github.io/gaze_ml_2023/images/rm.jpeg" width="200"/>](speakers#rm)|
-| :-: |
-| [**Roberto Manduchi, Ph.D.**](speakers#rm) |
-| **UC Santa Cruz** |
+
 
 
 # Organizers <a name="organizers"></a>
